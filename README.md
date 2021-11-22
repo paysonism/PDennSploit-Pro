@@ -40,24 +40,15 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+      <a href="#about-the-project">Project Info.</a>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+      <a href="#getting-started">Design</a>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#roadmap">Features</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -77,63 +68,57 @@ PDennSploit is the #1 Free Roblox Exploit. PDennSploit Pro, is ten times better.
 <!-- GETTING STARTED -->
 ## Design
 
-The design chosen for PDennSploit Pro was based off the Script-Ware UI because of it's tab system and great organization. It contains a modern and compact feeling using a custom version of Monaco and Monaco tabs especially for PDennSploit Pro. It also has different tabs that link to different forms such as Home, Script Hub, Options, 
+The design chosen for PDennSploit Pro was based off the Script-Ware UI because of it's tab system and great organization. It contains a modern and compact feeling using a custom version of Monaco and Monaco tabs especially for PDennSploit Pro. It also has different tabs that link to different forms such as Home, Script Hub, Options, and a Console!
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+PDennSploit Pro can be used to hack in your favorite ROBLOX games without having to pay over $5! If you cannot afford or don't want to pay the $5 for PDennSploit Pro you can use [PDennSploit](http://pdennsploit.ml/), the free version of PDennSploit Pro.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the official [Documentation](http://pdennsploit.ml/docs/)_
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Features
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [x] Innovative Design
+- [x] Undetectable
+- [x] Custom API
+- [x] Console
+- [x] Over 10+ settings
+- [ ] Multi-Language Support
+- [ ] Website
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [current issues](https://github.com/P-DennyGamingYT/PDennSploit-Pro/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">Back to Top</a>)</p>
 
 
+<!-- Acknowledgments -->
+## Acknowledgments
 
-<!-- CONTACT -->
-## Credits
+Thanks to those of you that have helped me on this journey of creating PDennSploit Pro. Here is a list of website that have also helped me with commands and creating must need features for PDennSploit Pro.
 
-Your Name - [@PDennSploitLLC](https://twitter.com/PDennSploitLLC) - paysonholmes@gmail.com
+[Stack Overflow](https://stackoverflow.com/) has been a huge help for when I need any help with commands and instances of code.
 
-Project Link: [https://github.com/P-DennyGamingYT/PDennSploit-Pro/](https://github.com/P-DennyGamingYT/PDennSploit-Pro/)
+[Microsoft Docs](https://docs.microsoft.com/) has also been a HUGE help whenever I get errors in code they usually have a fix for it or I can create a new request and ask for help and a kind human being will help me out.
+
+There are some other people that have helped me however I have not been able to copy links to their profiles, so if you are here, Thank you!
 
 <p align="right">(<a href="#top">Back to top.</a>)</p>
 
 
+## Credits
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+Payson Holmes - [@PDennSploitLLC](https://twitter.com/PDennSploitLLC) - paysonholmes@gmail.com
+
+Project Link: [https://github.com/P-DennyGamingYT/PDennSploit-Pro/](https://github.com/P-DennyGamingYT/PDennSploit-Pro/)
+
+<p align="right">(<a href="#top">Back to top.</a>)</p>
