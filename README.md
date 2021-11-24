@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/P-DennyGamingYT/PDennSploit-Pro">
-    <img src="images/P-D-P-Small.png" alt="Logo" width="80" height="80">
+    <img src="images/P-D-P-Small.png" alt="Logo">
   </a>
 
   <h3 align="center">PDennSploit Pro</h3>
