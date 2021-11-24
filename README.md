@@ -57,8 +57,6 @@
 <!-- ABOUT THE PROJECT -->
 ## Project Info.
 
-<img src="images/PDennSploitPro.png" alt="Error Loading Image">
-
 PDennSploit is the #1 Free Roblox Exploit. PDennSploit Pro, is ten times better. With a cutting edge design and features like no other, PDennSploit is the way to go. In this documentation I will go over the features and design while comparing to other popular paid exploits.
 
 <p align="right">(<a href="#top">Back to Top</a>)</p>
